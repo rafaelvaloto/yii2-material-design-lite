@@ -1,5 +1,5 @@
-# yii2-material-desig-lite
-yii2-material-desig-lite
+# yii2-material-design-lite
+yii2-material-design-lite
 
 ### install
 
