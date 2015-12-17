@@ -1,5 +1,5 @@
 <?php 
-namespace rafaelvaloto\mdl;
+namespace rafaelvaloto\mdl\material;
 
 use yii\web\AssetBundle;
 

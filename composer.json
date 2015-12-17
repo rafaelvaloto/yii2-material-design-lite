@@ -14,5 +14,10 @@
 			"role":" developer"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+	"autoload":{
+		"psr-4":{
+			"rafaelvaloto\\mdl\\material\\":""	
+		}
+	}
 }
