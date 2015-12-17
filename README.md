@@ -3,7 +3,7 @@ yii2-material-desig-lite
 
 ### install
 
-    composer require rafaelvaloto/material-design-lite dev-master 
+    composer require rafaelvaloto/yii2-material-design-lite dev-master 
 
 ### Usage
 asset/AppAseet.php
